@@ -47,12 +47,6 @@ The application detects charging events using Android system broadcasts and disp
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
-
-| Home Screen | Charging Animation | Battery Information |
-| ----------- | ------------------ | ------------------- |
-| Screenshot  | Screenshot         | Screenshot          |
-
 ---
 
 # 🛠️ Tech Stack
